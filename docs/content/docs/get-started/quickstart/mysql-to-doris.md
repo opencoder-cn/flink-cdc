@@ -182,7 +182,7 @@ This command automatically starts all the containers defined in the Docker Compo
    {{< img src="/fig/mysql-doris-tutorial/doris-create-table.png" alt="Doris create table" >}}
 
 ## Submit job using FlinkCDC cli
-1. Download the binary compressed packages listed below and extract them to the directory ` flink cdc-3.0.0 '`：    
+1. Download the binary compressed packages listed below and extract them to the directory `flink-cdc-3.0.0`：    
    [flink-cdc-3.0.0-bin.tar.gz](https://github.com/ververica/flink-cdc-connectors/releases/download/release-3.0.0/flink-cdc-3.0.0-bin.tar.gz)
    flink-cdc-3.0.0 directory will contain four directory `bin`,`lib`,`log`,`conf`.
 
